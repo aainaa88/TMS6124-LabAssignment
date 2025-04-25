@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Attractions>
+  <Attraction>
+    <PlaceID>A001</PlaceID>
+    <Name>Petronas Twin Towers</Name>
+    <City>Kuala Lumpur</City>
+    <State>Wilayah Persekutuan</State>
+    <Description>Iconic skyscrapers in the heart of KL.</Description>
+    <OpeningHours>24 Hours</OpeningHours>
+    <Category>Urban Landmark</Category>
+    <Ticket>Yes</Ticket>
+    <Price>20</Price>
+    <Image>petronas.jpg</Image>
+  </Attraction>
+  <Attraction>
+    <PlaceID>A002</PlaceID>
+    <Name>Langkawi Sky Bridge</Name>
+    <City>Langkawi</City>
+    <State>Kedah</State>
+    <Description>Spectacular curved pedestrian bridge.</Description>
+    <OpeningHours>09:00-17:00</OpeningHours>
+    <Category>Adventure</Category>
+    <Ticket>Yes</Ticket>
+    <Price>15</Price>
+    <Image>skybridge.jpg</Image>
+  </Attraction>
+  <Attraction>
+    <PlaceID>A003</PlaceID>
+    <Name>Kek Lok Si Temple</Name>
+    <City>Air Itam</City>
+    <State>Penang</State>
+    <Description>Largest Buddhist temple in Malaysia.</Description>
+    <OpeningHours>08:00-18:00</OpeningHours>
+    <Category>Religious</Category>
+    <Ticket>No</Ticket>
+    <Price>0</Price>
+    <Image>kekloksi.jpg</Image>
+  </Attraction>
+  <Attraction>
+    <PlaceID>A004</PlaceID>
+    <Name>Mount Kinabalu</Name>
+    <City>Ranau</City>
+    <State>Sabah</State>
+    <Description>Highest peak in Malaysia.</Description>
+    <OpeningHours>06:00-18:00</OpeningHours>
+    <Category>Nature</Category>
+    <Ticket>Yes</Ticket>
+    <Price>50</Price>
+    <Image>kinabalu.jpg</Image>
+  </Attraction>
+  <Attraction>
+    <PlaceID>A005</PlaceID>
+    <Name>Jonker Street</Name>
+    <City>Melaka</City>
+    <State>Melaka</State>
+    <Description>Famous night market with food and crafts.</Description>
+    <OpeningHours>18:00-00:00</OpeningHours>
+    <Category>Cultural</Category>
+    <Ticket>No</Ticket>
+    <Price>0</Price>
+    <Image>jonker.jpg</Image>
+  </Attraction>
+  <Attraction>
+    <PlaceID>A006</PlaceID>
+    <Name>Sunway Lagoon</Name>
+    <City>Petaling Jaya</City>
+    <State>Selangor</State>
+    <Description>Multi-park amusement destination.</Description>
+    <OpeningHours>10:00-18:00</OpeningHours>
+    <Category>Entertainment</Category>
+    <Ticket>Yes</Ticket>
+    <Price>100</Price>
+    <Image>sunway.jpg</Image>
+  </Attraction>
+  <Attraction>
+    <PlaceID>A007</PlaceID>
+    <Name>Islamic Arts Museum</Name>
+    <City>Kuala Lumpur</City>
+    <State>Wilayah Persekutuan</State>
+    <Description>Exhibits of Islamic decorative arts.</Description>
+    <OpeningHours>10:00-18:00</OpeningHours>
+    <Category>Educational</Category>
+    <Ticket>Yes</Ticket>
+    <Price>14</Price>
+    <Image>museum.jpg</Image>
+  </Attraction>
+  <Attraction>
+    <PlaceID>A008</PlaceID>
+    <Name>Penang Hill</Name>
+    <City>George Town</City>
+    <State>Penang</State>
+    <Description>Hill resort with panoramic views.</Description>
+    <OpeningHours>06:30-23:00</OpeningHours>
+    <Category>Recreational</Category>
+    <Ticket>Yes</Ticket>
+    <Price>30</Price>
+    <Image>penanghill.jpg</Image>
+  </Attraction>
+  <Attraction>
+    <PlaceID>A009</PlaceID>
+    <Name>Gunung Mulu Caves</Name>
+    <City>Miri</City>
+    <State>Sarawak</State>
+    <Description>Famous limestone cave system.</Description>
+    <OpeningHours>08:00-17:00</OpeningHours>
+    <Category>Nature</Category>
+    <Ticket>Yes</Ticket>
+    <Price>40</Price>
+    <Image>mulu.jpg</Image>
+  </Attraction>
+  <Attraction>
+    <PlaceID>A010</PlaceID>
+    <Name>St. Paul's Church</Name>
+    <City>Melaka</City>
+    <State>Melaka</State>
+    <Description>Historic ruins of a 16th-century church.</Description>
+    <OpeningHours>Closed</OpeningHours>
+    <Category>Historical</Category>
+    <Ticket>No</Ticket>
+    <Price>0</Price>
+    <Image>stpaul.jpg</Image>
+  </Attraction>
+</Attractions>
