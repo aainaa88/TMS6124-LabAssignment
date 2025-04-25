@@ -56,7 +56,7 @@ function displayAttraction(attraction) {
       <p><strong>Category:</strong> ${category}</p>
       <p><strong>Ticket Required:</strong> ${ticket}</p>
       <p><strong>Price:</strong> RM ${price}</p>
-      <img src="${image}" alt="${name}" style="max-width:100%;height:auto;">
+      <img src="${image}" alt="${name}" style="width:500px;height:auto;">
     </div>
   `;
 }
